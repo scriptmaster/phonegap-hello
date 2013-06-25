@@ -6,7 +6,7 @@ A basic app, with the bare-minimum files required to create a phone gap app, and
 
 ## 2 important files:
 
-###1) config.xml
+###1) www/config.xml
 ###2) www/index.html
 
 
