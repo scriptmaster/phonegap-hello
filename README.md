@@ -12,8 +12,20 @@ A basic app, with the bare-minimum files required to create a phone gap app, and
 
 
 ## Reference files:
+
+Index.html:
+
+References phonegap's js file (which is added automatically).
+
+
+        <script master src="phonegap.js"></script>
+
+
+And application files
+
 	www/css/index.css
 	www/js/index.js
+
 
 ## Icon files
 	www/res/icon/*     ==> for app icons
